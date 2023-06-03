@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>lol</title>
+	<title>MarketPlase</title>
 </head>
 <body>
-<p>MAMAA</p>
 <div id="main"></div>
 <script type="text/javascript" src="/static/js_front.js"></script>
 </body>
