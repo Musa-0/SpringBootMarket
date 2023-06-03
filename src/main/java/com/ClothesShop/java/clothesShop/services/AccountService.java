@@ -54,7 +54,7 @@ public class AccountService implements UserDetailsService {
 
     public Account create(Account account){
         Set<Role> roles = new HashSet<>();
-        roles.add(Role.ADMIN);
+        roles.add(Role.USER);
         account.setRoles(roles);
         account.setActive(true);
         account.setCount_of_pay(0L);

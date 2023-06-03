@@ -32,6 +32,7 @@ public class Account implements UserDetails {
     String email;
 
     @NotBlank
+    @JsonIgnore
     @Column(name = "password", length = 1000)
     String password;
 
