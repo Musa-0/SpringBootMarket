@@ -1,4 +1,5 @@
-<h1>REST API MarketPlace</h1>
+<h1>REST API MarketPlace</h1> <img src="https://github.com/Musa-0/SpringBootMarket/assets/87027172/7668e484-bae9-4636-ba98-c004ad79a8d3">
+
 <p>Инструкцию по запуску данного приложения вы сможете найти в файле MANUAL.md</p>
 
 <h2>Объекты приложения</h2>
