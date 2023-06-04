@@ -1,5 +1,4 @@
-<h1>REST API MarketPlace</h1> ![ic_local_grocery_store_128_28460 (2)](https://github.com/Musa-0/SpringBootMarket/assets/87027172/0fa3f69b-ca96-4e2d-a140-58fb64e7578c)
-
+<h1>REST API MarketPlace</h1>
 <p>Инструкцию по запуску данного приложения вы сможете найти в файле MANUAL.md</p>
 
 <h2>Объекты приложения</h2>
